@@ -31,20 +31,6 @@ LangChain (learning) • RAG • Vector DB Concepts • Pandas • NumPy
 **Development Tools:**  
 Git • GitHub • VS Code  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Juee21&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Juee21&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juee21&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
