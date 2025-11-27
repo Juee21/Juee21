@@ -7,7 +7,7 @@
 - 🎓 Computer Science Graduate  
 - 💡 Interested in **AI-driven applications, RAG systems & Full-Stack Development**
 - 🔭 Currently building: Projects using **Java, Python, React.js & APIs**
-- 🌱 Learning: **LangChain, Vector Databases & Advanced React**
+- 🌱 Learning: **LangChain, Vector Databases & Agents Developments**
 - 👯 Looking to collaborate on **AI + Web development** projects
 - 🔍 Actively seeking **Software Developer / AI & ML Internship / Entry Level roles**
 - ⚡ Fun Fact: I love solving problems that *break first and then teach me* 😄
