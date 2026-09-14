@@ -1,129 +1,89 @@
-<div align="center">
+# Hi there 👋, I'm Juee Khandale
 
-# JUEE / AI SYSTEMS
-### *Building systems around AI — and figuring out what makes them actually work.*
+### 🚀 AI Engineer | Generative AI | Agentic RAG | Python Developer
 
-<p align="center">
-  <b>AI Engineering</b> &nbsp;•&nbsp; 
-  <b>Generative AI</b> &nbsp;•&nbsp; 
-  <b>Agentic Systems</b> &nbsp;•&nbsp; 
-  <b>RAG</b> &nbsp;•&nbsp; 
-  <b>Python</b>
-</p>
+I'm a Computer Science graduate focused on building production-oriented AI systems using Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). 
 
-<p align="center">
-  <a href="https://linkedin.com"><b>LinkedIn</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://substack.com"><b>Substack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://x.com"><b>X</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com"><b>Portfolio</b></a>
-</p>
-
-</div>
+Currently, I'm building an **AI Research Analyst Agent**—a modular Agentic RAG system that ingests enterprise documents, performs hybrid retrieval, and generates grounded responses through scalable AI workflows.
 
 ---
 
-### ⚡ /currently
+### 💻 Tech Stack & Tools
 
-| Status | Focus Area | Technologies & Details |
-| :--- | :--- | :--- |
-| 🚀 **BUILDING** | AI Research Analyst Agent | Enterprise document intelligence & agentic workflows |
-| 🔭 **EXPLORING** | Agentic RAG & AI Workflows | Autonomous multi-step reasoning pipelines |
-| ⚙️ **ENGINEERING** | Retrieval, Reranking & Eval | Parent-Child chunking, BM25, and Cross-Encoders |
-| 🛠️ **BACKEND** | Production Systems | Python, FastAPI, REST APIs |
-
----
-
-### 🧩 /featured-build: AI Research Analyst Agent
-
-> **Agentic RAG for complex document intelligence.**
-> *Moving beyond simplistic retrieve → generate loops into structured, rigorous pipelines.*
-
-mermaid
-graph TD
-    A[DOCUMENTS] --> B[INGESTION]
-    B --> C[DOCUMENT STRUCTURE]
-    C --> D[PARENT / CHILD CONTEXT]
-    D --> E[HYBRID RETRIEVAL]
-    E --> F1[VECTOR]
-    E --> F2[BM25]
-    F1 --> G[RE-RANKING]
-    F2 --> G
-    G --> H[AGENT WORKFLOW]
-    H --> I[GROUNDED RESPONSE]
-    I --> J[EVALUATION]
+**Languages & Core Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
+**AI & LLM Orchestration**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=diagram&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Engineering Focus:**
-Parent-Child Retrieval • Hybrid Search • BM25 • Vector Search • Cross-Encoder Re-ranking • Agentic Workflows • Citation-Grounded Responses • Evaluation
-
-*The goal isn't simply to make an LLM answer questions. The goal is to understand how retrieval, reasoning, and evaluation work together to produce more reliable AI systems.*
-
-[🔗 Explore the Repository](https://www.google.com/search?q=%23)
+* **AI Architecture:** Generative AI, LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), Prompt Engineering
+* **Retrieval & Embeddings:** Hybrid Retrieval (BM25 + Vector Search), Cross-Encoder Re-ranking, Parent-Child Chunking
+* **Vector Databases:** ChromaDB, Qdrant
+* **Developer Tools:** Git, GitHub, Docker, VS Code
 
 ---
 
-### 🗺️ /engineering-map
+### 📌 Featured Projects
 
-* **🤖 AI:** Generative AI • LLM Applications • Agentic AI • RAG • Prompt Engineering
-* **🔍 RETRIEVAL:** Vector Search • BM25 • Hybrid Retrieval • Parent / Child Chunking • Cross-Encoder Re-ranking
-* **⚙️ BACKEND:** Python • FastAPI • REST APIs
-* **💾 DATA / INFRA:** ChromaDB • Qdrant • Docker • Git / GitHub
-* **🎼 ORCHESTRATION:** LangChain • LangGraph • Google Gemini
+#### 🤖 [AI Research Analyst Agent](https://github.com/Juee21/AI-Research-Analyst-Agent)
+> **Stack:** LangGraph, LangChain, FastAPI, Google Gemini, ChromaDB / Qdrant
+* A production-oriented Agentic RAG system designed for enterprise document intelligence.
+* Features modular AI architectures, hierarchical document parsing (parent-child chunking), hybrid retrieval (BM25 + Cross-Encoder re-ranking), and automated evaluation pipelines.
 
----
-
-### 💼 /selected-builds
-
-#### **01 — AI Research Analyst Agent**
-
-> Agentic RAG system for enterprise document intelligence. Explores hierarchical document understanding, hybrid retrieval, reranking, agentic workflows, and evaluation.
-> `Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `Qdrant` `ChromaDB` • [Repository →](https://www.google.com/search?q=%23)
-
-#### **02 — AI Business Insights Assistant**
-
-> Turning unstructured business information into interactive insights. Ingests business documents, extracts relevant information, and presents analytical results through interactive visualizations.
-> `Python` `Gemini API` `Streamlit` `Plotly` `FastAPI` • [Repository →](https://www.google.com/search?q=%23)
+#### 📊 [AI Business Insights Assistant](https://github.com/Juee21/AI-Powered-Business-Analyst)
+> **Stack:** Python, Google Gemini API, Plotly, Streamlit, FastAPI
+* An intelligent analytics platform that ingests unstructured business documents, extracts key operational metrics, and renders dynamic interactive charts.
 
 ---
 
-### 🧭 /things-im-figuring-out
-
-*I'm less interested in collecting technologies and more interested in understanding the systems behind them.*
-
-* **01. Agentic AI** → How should agents reason, act, and coordinate?
-* **02. Retrieval** → How do we retrieve the right context consistently?
-* **03. Evaluation** → How do we know an AI system is actually improving?
-* **04. AI System Design** → How do individual components become a reliable system?
-* **05. Infrastructure** → How do we make AI applications practical to run?
-* **06. Cost** → How do we balance quality, latency, and model cost?
+### 🚀 What I'm Working On
+* 🤖 **Building:** An AI Research Analyst Agent
+* 🧠 **Designing:** Production-style Agentic RAG architectures
+* 🔍 **Improving:** Retrieval accuracy with Hybrid Search (BM25) & Cross-Encoder Re-ranking
+* ⚙️ **Developing:** Scalable AI APIs using FastAPI
+* 📊 **Evaluating:** Pipelines for retrieval and generation quality checks
 
 ---
 
-### 📐 /engineering-principles
-
-1. **Retrieval is part of intelligence.** — Bad context can make a capable model look incapable.
-2. **Every AI system needs a way to be evaluated.** — “Looks good in a demo” isn't an evaluation strategy.
-3. **Architecture should explain itself.** — If I can't explain why a component exists, I probably need to question it.
-4. **Build before claiming expertise.** — The fastest way to understand a system is often to try building one.
-5. **Reliability is an engineering problem.** — An impressive response is useful. A consistently useful system is better.
+### 📚 Currently Learning
+* Advanced Agentic AI Workflows
+* LLM Evaluation Frameworks (Ragas / TruLens)
+* AI System Design & Infrastructure
+* MLOps for LLM Applications
 
 ---
 
-### ✍️ /building-in-public
-
-I'm documenting what I'm learning while building AI systems. Writing and experiments around **AI Engineering**, **RAG**, **Agentic AI**, **LLMs**, and **Learning in Public**.
-
-[📖 Read on Substack →](https://www.google.com/search?q=%23)
+### 🎯 Career Focus
+I am actively seeking full-time opportunities as:
+**AI Engineer** | **Generative AI Engineer** | **LLM Engineer** | **Applied AI Engineer** | **AI Software Engineer**
 
 ---
 
-### 📬 /connect
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Juee21&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Juee21&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Juee21&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Open to conversations around AI engineering, applied AI, LLM systems, open-source projects, and interesting early-stage products.
+---
 
-[LinkedIn](https://www.google.com/search?q=%23)  •  [Substack](https://www.google.com/search?q=%23)  •  [X](https://www.google.com/search?q=%23)
+### 🤝 Let's Connect
 
-> `build` ➔ `break` ➔ `understand` ➔ `rebuild`
-> **Juee / AI Systems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juee-khandale-bb7b55299/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandalejuee@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/growwithjuee/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@khandalejuee)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1JOyW5rmO)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JueeKhandale)
+
+---
+
+> 💡 *Philosophy: "Build AI systems that are reliable, scalable, and engineered for real-world impact—not just demos."*
+
+⭐ **Thanks for visiting! Feel free to check out my projects and connect with me!**
 
