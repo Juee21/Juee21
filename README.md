@@ -1,90 +1,209 @@
-# Hi there 👋, I'm Juee Khandale
+<!-- Top Navigation Bar -->
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle" width="32%">
+      <a href="https://github.com/Juee21">
+        <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=22&duration=2200&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=195&height=46&lines=juee.khandale" alt="juee.khandale" />
+      </a>
+    </td>
+    <td align="right" valign="middle" width="68%">
+      <a href="#about-me"><strong>About</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#skills--technologies"><strong>Skills</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#featured-projects"><strong>Projects</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#current-focus"><strong>Focus</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#github-stats"><strong>Stats</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#lets-connect"><strong>Connect</strong></a>
+    </td>
+  </tr>
+</table>
 
-### 🚀 AI Engineer | Generative AI | Agentic RAG | Python Developer
+<br/>
 
-I'm a Computer Science graduate focused on building production-oriented AI systems using Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). 
+<!-- Hero / About Me Section -->
+## About Me
 
-Currently, I'm building an **AI Research Analyst Agent**—a modular Agentic RAG system that ingests enterprise documents, performs hybrid retrieval, and generates grounded responses through scalable AI workflows.
+<table>
+  <tr>
+    <td width="63%" valign="middle">
+      <h3>Hi there 👋, I'm Juee Khandale</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Engineer-241C3B?style=flat&logoColor=A78BFA" alt="AI Engineer" />
+        <img src="https://img.shields.io/badge/Generative%20AI-241C3B?style=flat" alt="Generative AI" />
+        <img src="https://img.shields.io/badge/Agentic%20RAG-241C3B?style=flat" alt="Agentic RAG" />
+        <img src="https://img.shields.io/badge/Python%20Developer-241C3B?style=flat" alt="Python Developer" />
+      </p>
+      <p>
+        I'm a Computer Science graduate focused on building production-oriented AI systems using <strong>Large Language Models (LLMs)</strong>, <strong>Agentic AI</strong>, and <strong>Retrieval-Augmented Generation (RAG)</strong>.
+      </p>
+      <p>
+        Currently, I'm building an <strong>AI Research Analyst Agent</strong>—a modular Agentic RAG system that ingests enterprise documents, performs hybrid retrieval, and generates grounded responses through scalable AI workflows.
+      </p>
+      <blockquote>
+        💡 <em>"Build AI systems that are reliable, scalable, and engineered for real-world impact—not just demos."</em>
+      </blockquote>
+    </td>
+    <td width="37%" align="center" valign="middle">
+      <img src="./assets/pixel-cat.svg" alt="Purple Pixel Art Cat" width="280" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 💻 Tech Stack & Tools
+<!-- Skills & Technologies (3-Column Card Layout) -->
+## Skills & Technologies
 
-**Languages & Core Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Languages &amp; Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-221C35?style=flat&logo=python&logoColor=A78BFA" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-221C35?style=flat&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Docker-221C35?style=flat&logo=docker&logoColor=A78BFA" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-221C35?style=flat&logo=git&logoColor=A78BFA" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-221C35?style=flat&logo=github&logoColor=A78BFA" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS%20Code-221C35?style=flat&logo=visualstudiocode&logoColor=A78BFA" alt="VS Code" />
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h4>AI &amp; LLM Orchestration</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-221C35?style=flat&logo=langchain&logoColor=A78BFA" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LangGraph-221C35?style=flat&logo=langgraph&logoColor=A78BFA" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/HuggingFace-221C35?style=flat&logo=huggingface&logoColor=A78BFA" alt="HuggingFace" />
+        <img src="https://img.shields.io/badge/Google%20Gemini-221C35?style=flat&logo=googlegemini&logoColor=A78BFA" alt="Google Gemini" />
+        <img src="https://img.shields.io/badge/Generative%20AI-1E1A2E?style=flat" alt="Generative AI" />
+        <img src="https://img.shields.io/badge/LLMs-1E1A2E?style=flat" alt="LLMs" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-1E1A2E?style=flat" alt="Agentic AI" />
+        <img src="https://img.shields.io/badge/RAG-1E1A2E?style=flat" alt="Retrieval-Augmented Generation" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-1E1A2E?style=flat" alt="Prompt Engineering" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Retrieval &amp; Vector DBs</h4>
+      <p>
+        <img src="https://img.shields.io/badge/ChromaDB-221C35?style=flat" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/Qdrant-221C35?style=flat" alt="Qdrant" />
+        <img src="https://img.shields.io/badge/Hybrid%20Retrieval%20(BM25%20%2B%20Vector)-1E1A2E?style=flat" alt="Hybrid Retrieval" />
+        <img src="https://img.shields.io/badge/Cross--Encoder%20Re--ranking-1E1A2E?style=flat" alt="Cross-Encoder Re-ranking" />
+        <img src="https://img.shields.io/badge/Parent--Child%20Chunking-1E1A2E?style=flat" alt="Parent-Child Chunking" />
+      </p>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-**AI & LLM Orchestration**
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=diagram&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Featured Projects (Timeline-Inspired Cards) -->
+## Featured Projects
 
-* **AI Architecture:** Generative AI, LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), Prompt Engineering
-* **Retrieval & Embeddings:** Hybrid Retrieval (BM25 + Vector Search), Cross-Encoder Re-ranking, Parent-Child Chunking
-* **Vector Databases:** ChromaDB, Qdrant
-* **Developer Tools:** Git, GitHub, Docker, VS Code
+<table width="100%">
+  <tr>
+    <td width="10%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/01-8B5CF6?style=for-the-badge" alt="Project 01" />
+    </td>
+    <td width="90%" valign="top">
+      <h4>🤖 <a href="https://github.com/Juee21/AI-Research-Analyst-Agent">AI Research Analyst Agent</a></h4>
+      <p>
+        <code>LangGraph</code> · <code>LangChain</code> · <code>FastAPI</code> · <code>Google Gemini</code> · <code>ChromaDB / Qdrant</code>
+      </p>
+      <ul>
+        <li>A production-oriented Agentic RAG system designed for enterprise document intelligence.</li>
+        <li>Features modular AI architectures, hierarchical document parsing (parent-child chunking), hybrid retrieval (BM25 + Cross-Encoder re-ranking), and automated evaluation pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/02-8B5CF6?style=for-the-badge" alt="Project 02" />
+    </td>
+    <td width="90%" valign="top">
+      <h4>📊 <a href="https://github.com/Juee21/AI-Powered-Business-Analyst">AI Business Insights Assistant</a></h4>
+      <p>
+        <code>Python</code> · <code>Google Gemini API</code> · <code>Plotly</code> · <code>Streamlit</code> · <code>FastAPI</code>
+      </p>
+      <ul>
+        <li>An intelligent analytics platform that ingests unstructured business documents, extracts key operational metrics, and renders dynamic interactive charts.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📌 Featured Projects
+<!-- Current Focus & Learning (2-Column Cards + Career Focus Banner) -->
+## Current Focus
 
-#### 🤖 [AI Research Analyst Agent](https://github.com/Juee21/AI-Research-Analyst-Agent)
-> **Stack:** LangGraph, LangChain, FastAPI, Google Gemini, ChromaDB / Qdrant
-* A production-oriented Agentic RAG system designed for enterprise document intelligence.
-* Features modular AI architectures, hierarchical document parsing (parent-child chunking), hybrid retrieval (BM25 + Cross-Encoder re-ranking), and automated evaluation pipelines.
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🚀 What I'm Working On</h4>
+      <ul>
+        <li>🤖 <strong>Building:</strong> An AI Research Analyst Agent</li>
+        <li>🧠 <strong>Designing:</strong> Production-style Agentic RAG architectures</li>
+        <li>🔍 <strong>Improving:</strong> Retrieval accuracy with Hybrid Search (BM25) &amp; Cross-Encoder Re-ranking</li>
+        <li>⚙️ <strong>Developing:</strong> Scalable AI APIs using FastAPI</li>
+        <li>📊 <strong>Evaluating:</strong> Pipelines for retrieval and generation quality checks</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>📚 Currently Learning</h4>
+      <ul>
+        <li>Advanced Agentic AI Workflows</li>
+        <li>LLM Evaluation Frameworks (Ragas / TruLens)</li>
+        <li>AI System Design &amp; Infrastructure</li>
+        <li>MLOps for LLM Applications</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>🎯 Career Focus</h4>
+      <p>I am actively seeking full-time opportunities as:</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Engineer-2A1F47?style=for-the-badge" alt="AI Engineer" />
+        <img src="https://img.shields.io/badge/Generative%20AI%20Engineer-2A1F47?style=for-the-badge" alt="Generative AI Engineer" />
+        <img src="https://img.shields.io/badge/LLM%20Engineer-2A1F47?style=for-the-badge" alt="LLM Engineer" />
+        <img src="https://img.shields.io/badge/Applied%20AI%20Engineer-2A1F47?style=for-the-badge" alt="Applied AI Engineer" />
+        <img src="https://img.shields.io/badge/AI%20Software%20Engineer-2A1F47?style=for-the-badge" alt="AI Software Engineer" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### 📊 [AI Business Insights Assistant](https://github.com/Juee21/AI-Powered-Business-Analyst)
-> **Stack:** Python, Google Gemini API, Plotly, Streamlit, FastAPI
-* An intelligent analytics platform that ingests unstructured business documents, extracts key operational metrics, and renders dynamic interactive charts.
+<br/>
 
----
+<!-- GitHub Stats (Dark & Lavender Purple Theme) -->
+## GitHub Stats
 
-### 🚀 What I'm Working On
-* 🤖 **Building:** An AI Research Analyst Agent
-* 🧠 **Designing:** Production-style Agentic RAG architectures
-* 🔍 **Improving:** Retrieval accuracy with Hybrid Search (BM25) & Cross-Encoder Re-ranking
-* ⚙️ **Developing:** Scalable AI APIs using FastAPI
-* 📊 **Evaluating:** Pipelines for retrieval and generation quality checks
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Juee21&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d0d12&border_color=2e2447&title_color=a78bfa&text_color=d4d4d8&icon_color=8b5cf6&border_radius=12" height="170" alt="Juee's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Juee21&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d0d12&border_color=2e2447&title_color=a78bfa&text_color=d4d4d8&border_radius=12" height="170" alt="Juee's Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Juee21&hide_border=false&background=0D0D12&border=2E2447&stroke=2E2447&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=A1A1AA&border_radius=12" alt="Juee's GitHub Streak" />
+</div>
 
----
+<br/>
 
-### 📚 Currently Learning
-* Advanced Agentic AI Workflows
-* LLM Evaluation Frameworks (Ragas / TruLens)
-* AI System Design & Infrastructure
-* MLOps for LLM Applications
+<!-- Let's Connect -->
+## Let's Connect
 
----
-
-### 🎯 Career Focus
-I am actively seeking full-time opportunities as:
-**AI Engineer** | **Generative AI Engineer** | **LLM Engineer** | **Applied AI Engineer** | **AI Software Engineer**
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Juee21&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Juee21&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Juee21&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juee-khandale-bb7b55299/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/growwithjuee/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@khandalejuee)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1JOyW5rmO)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JueeKhandale)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khandalejuee@gmail.com) 
-
-
----
-
-> 💡 *Philosophy: "Build AI systems that are reliable, scalable, and engineered for real-world impact—not just demos."*
-
-⭐ **Thanks for visiting! Feel free to check out my projects and connect with me!**
+<div align="center">
+  <a href="https://www.linkedin.com/in/juee-khandale-bb7b55299/">
+    <img src="https://img.shields.io/badge/LinkedIn-161422?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/growwithjuee/">
+    <img src="https://img.shields.io/badge/Instagram-161422?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@khandalejuee">
+    <img src="https://img.shields.io/badge/Medium-161422?style=for-the-badge&logo=medium&logoColor=A78BFA" alt="Medium" />
+  </a>
+  <a href="https://pin.it/1JOyW5rmO">
+    <img src="https://img.shields.io/badge/Pinterest-161422?style=for-the-badge&logo=pinterest&logoColor=A78BFA" alt="Pinterest" />
+  </a>
+  <a href="https://x.com/JueeKhandale">
+    <img src="https://img.shields.io/badge/X-161422?style=for-the-badge&logo=x&logoColor=A78BFA" alt="X" />
+  </a>
+  <a href="mailto:khandalejuee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161422?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
+  </a>
+  <br/><br/>
+  <p>⭐ <strong>Thanks for visiting! Feel free to check out my projects and connect with me!</strong></p>
+</div>
 
