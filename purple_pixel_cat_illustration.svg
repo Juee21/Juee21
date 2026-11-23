@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" role="img" aria-label="Purple pixel art cat illustration">
+  <!-- Dark Card Canvas -->
+  <rect x="2" y="2" width="316" height="256" rx="20" fill="#0B0B10" stroke="#2A2240" stroke-width="2" />
+
+  <!-- Subtle Glow Behind Cat -->
+  <ellipse cx="165" cy="138" rx="88" ry="62" fill="#8B5CF6" opacity="0.10" />
+
+  <!-- Floating Pixel Sparkles & Shapes -->
+  <!-- Top-left plus + dot -->
+  <g fill="#7C5CE6">
+    <rect x="96" y="64" width="8" height="8" />
+    <rect x="96" y="72" width="8" height="8" />
+    <rect x="96" y="80" width="8" height="8" />
+    <rect x="88" y="72" width="8" height="8" />
+    <rect x="104" y="72" width="8" height="8" />
+  </g>
+  <rect x="76" y="88" width="8" height="8" fill="#5B3CC4" />
+
+  <!-- Top-right cross & ring -->
+  <g fill="#7C5CE6">
+    <rect x="234" y="48" width="8" height="8" />
+    <rect x="250" y="48" width="8" height="8" />
+    <rect x="242" y="56" width="8" height="8" />
+    <rect x="234" y="64" width="8" height="8" />
+    <rect x="250" y="64" width="8" height="8" />
+  </g>
+  <g fill="#8B5CF6">
+    <rect x="266" y="72" width="8" height="8" />
+    <rect x="258" y="80" width="8" height="8" />
+    <rect x="274" y="80" width="8" height="8" />
+    <rect x="266" y="88" width="8" height="8" />
+  </g>
+
+  <!-- Bottom-left hollow pixel stars -->
+  <g fill="#A78BFA">
+    <rect x="98" y="176" width="8" height="8" />
+    <rect x="90" y="184" width="8" height="8" />
+    <rect x="106" y="184" width="8" height="8" />
+    <rect x="98" y="192" width="8" height="8" />
+  </g>
+  <g fill="#6E4FD6">
+    <rect x="118" y="196" width="8" height="8" />
+    <rect x="126" y="188" width="8" height="8" />
+    <rect x="134" y="196" width="8" height="8" />
+    <rect x="126" y="204" width="8" height="8" />
+  </g>
+
+  <!-- Bottom-right ring & cross -->
+  <g fill="#7C5CE6">
+    <rect x="228" y="192" width="8" height="8" />
+    <rect x="220" y="200" width="8" height="8" />
+    <rect x="236" y="200" width="8" height="8" />
+    <rect x="228" y="208" width="8" height="8" />
+  </g>
+  <g fill="#8B5CF6">
+    <rect x="252" y="176" width="8" height="8" />
+    <rect x="268" y="176" width="8" height="8" />
+    <rect x="260" y="184" width="8" height="8" />
+    <rect x="252" y="192" width="8" height="8" />
+    <rect x="268" y="192" width="8" height="8" />
+  </g>
+
+  <!-- Pixel Cat Body (10px grid, origin x=40, y=30) -->
+  <!-- Tail -->
+  <g fill="#7C5CE6">
+    <rect x="70" y="110" width="20" height="20" />
+    <rect x="80" y="130" width="20" height="20" />
+    <rect x="90" y="140" width="20" height="20" />
+  </g>
+
+  <!-- Back / Shadow Layer -->
+  <g fill="#7B5CE6">
+    <!-- Left ear outer -->
+    <rect x="150" y="70" width="10" height="10" />
+    <rect x="140" y="80" width="20" height="10" />
+    <rect x="130" y="90" width="20" height="10" />
+    <!-- Back contour -->
+    <rect x="120" y="100" width="20" height="10" />
+    <rect x="110" y="110" width="20" height="10" />
+    <rect x="100" y="120" width="20" height="30" />
+    <rect x="110" y="150" width="20" height="20" />
+    <rect x="120" y="170" width="20" height="10" />
+    <rect x="130" y="180" width="90" height="10" />
+  </g>
+
+  <!-- Main Lavender Cat Body & Head -->
+  <g fill="#9E80F9">
+    <!-- Left ear fill -->
+    <rect x="160" y="80" width="10" height="10" />
+    <rect x="160" y="90" width="20" height="10" />
+    <!-- Right ear fill -->
+    <rect x="200" y="70" width="10" height="10" />
+    <rect x="190" y="80" width="30" height="10" />
+    <rect x="180" y="90" width="50" height="10" />
+    <!-- Main body & face -->
+    <rect x="140" y="100" width="90" height="10" />
+    <rect x="130" y="110" width="110" height="10" />
+    <rect x="120" y="120" width="120" height="40" />
+    <rect x="130" y="160" width="110" height="10" />
+    <rect x="140" y="170" width="90" height="10" />
+  </g>
+
+  <!-- Inner Ear Accents -->
+  <g fill="#5E3FC7">
+    <rect x="150" y="90" width="10" height="10" />
+    <rect x="190" y="90" width="10" height="10" />
+  </g>
+
+  <!-- Cute Pixel Eyes -->
+  <g fill="#161128">
+    <rect x="160" y="140" width="10" height="20" />
+    <rect x="200" y="140" width="10" height="20" />
+  </g>
+</svg>
