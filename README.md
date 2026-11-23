@@ -7,7 +7,13 @@
       </a>
     </td>
     <td align="right" valign="middle" width="68%">
-      <a href="#about-me"><strong>About</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#skills--technologies"><strong>Skills</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#featured-projects"><strong>Projects</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#current-focus"><strong>Focus</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#github-stats"><strong>Stats</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#lets-connect"><strong>Connect</strong></a>
+      <a href="#about-me"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=55&height=28&lines=About" alt="About" /></a>
+      <a href="#skills--technologies"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=60&height=28&lines=Skills" alt="Skills" /></a>
+      <a href="#featured-projects"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=75&height=28&lines=Projects" alt="Projects" /></a>
+      <a href="#technical-writing"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=68&height=28&lines=Writing" alt="Writing" /></a>
+      <a href="#current-focus"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=55&height=28&lines=Focus" alt="Focus" /></a>
+      <a href="#github-stats"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=55&height=28&lines=Stats" alt="Stats" /></a>
+      <a href="#lets-connect"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1&pause=10000&color=A78BFA&center=true&vCenter=true&repeat=false&width=68&height=28&lines=Connect" alt="Connect" /></a>
     </td>
   </tr>
 </table>
