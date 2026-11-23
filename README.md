@@ -38,7 +38,7 @@
       </blockquote>
     </td>
     <td width="37%" align="center" valign="middle">
-      <img src="./assets/pixel-cat.svg" alt="Purple Pixel Art Cat" width="280" />
+      <img src="purple_pixel_cat_illustration.svg" alt="Purple Pixel Art Cat" width="280" />
     </td>
   </tr>
 </table>
